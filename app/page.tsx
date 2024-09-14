@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "./components/Header";
 import PlayerInfo from "./components/PlayerInfo";
 import Button from "./components/Button";
